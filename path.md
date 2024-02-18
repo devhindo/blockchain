@@ -1,0 +1,2 @@
+- devhindo/blockchain.js: https://youtu.be/zVqczFZr124?si=POm8U9V8iQvTRNDg
+- devhindo/blockchain.go: https://youtube.com/playlist?list=PLpP5MQvVi4PGmNYGEsShrlvuE2B33xV1L&si=U20vecLECWrLr07K
